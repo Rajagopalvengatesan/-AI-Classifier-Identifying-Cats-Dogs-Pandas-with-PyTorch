@@ -173,5 +173,3 @@ def predict_image(image_path):
 
 ## OUTPUT :
 <img width="741" height="718" alt="image" src="https://github.com/user-attachments/assets/ae44c77b-7e3a-4484-b4f1-8d803837e866" />
-
-# -AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch
